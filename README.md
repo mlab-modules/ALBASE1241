@@ -1,12 +1,7 @@
-
-[Czech](./README.cs.md)
 <!--- module --->
-# ALBASE1115
+# ALBASE1241
 <!--- Emodule --->
 
-<!--- subtitle --->﻿Duralumin base board<!--- Esubtitle --->
+This base board has size 12x41 holes and standard MLAB grid 400mils (10.16mm). It is especially suited for simple measuring instruments and mobile robots constructions. 
 
-![ALBASE1115](DOC/SRC/img/ALBASE1115_QRcode.png)
-
-<!--- description --->This base board has size 11x15 holes and standard MLAB grid 400mils (10.16mm). It is especially suited for simple measuring instruments and mobile robots constructions. <!--- Edescription --->
-            
+![canvas](https://user-images.githubusercontent.com/5196729/236950152-135a6e00-8d7e-4acb-80e5-826ffc6cc4df.png)
