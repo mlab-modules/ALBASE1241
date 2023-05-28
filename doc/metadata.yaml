@@ -1,0 +1,14 @@
+description: 'This base board has size 12x41 holes and standard MLAB grid 400mils
+  (10.16mm). It is especially suited for simple measuring instruments and mobile robots
+  constructions. '
+github_branch: ALBASE1241
+github_repo: ALBASE1241
+github_url: https://github.com/mlab-modules/ALBASE1241
+homepage: false
+images:
+- doc/img/ALBASE1241_QRcode.png
+mark: 50
+tags:
+- albase
+- mlab
+title: ALBASE1241
