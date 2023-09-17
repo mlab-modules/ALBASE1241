@@ -8,7 +8,9 @@ homepage: false
 images:
 - doc/img/ALBASE1241_QRcode.png
 mark: 50
+status: 2
 tags:
 - albase
 - mlab
+- mlab-module
 title: ALBASE1241
